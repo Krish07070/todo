@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.input-container input {
+  margin: 10px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: black;
+  color: aliceblue;
+}
+
+.task-list {
+  margin-top: 20px;
+}
+
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.task-column {
+  width: 45%;
+  background-color: rgb(255, 254, 252);
+  color: rgb(4, 4, 4);
+}
+
+input[type="text"] {
+  margin: 5px;
+  padding: 5px;
+}
