@@ -11,3 +11,5 @@ todo-list app using vite for create
 
  for start app 
 # npm run dev
+
+  http://localhost:5173/
